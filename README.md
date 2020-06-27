@@ -1,8 +1,8 @@
-** Job Recommendation System ** 
+**Job Recommendation System** 
 
 Link: http://18.218.145.18/jupiter/
 
-** Details: **
+**Details:**
 Job+: AWS based Web Service Development – Job Recommendation 
 Front End:
 Developed an interactive web page for users to search and apply positions (HTML, CSS, JavaScript, AJAX)
